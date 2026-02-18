@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://komarev.com/ghpvc/?username=gichukianthony">
+<!--<img align="right" src="https://komarev.com/ghpvc/?username=gichukianthony">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=2000&color=00FF00&width=435&lines=Hi+There!+👋" alt="Typing SVG">
@@ -95,6 +95,6 @@ Here are some ideas to get you started:
 ## Dev Card 
 <a href="https://app.daily.dev/anthony73">
   <img src="https://api.daily.dev/devcards/v2/Re6fokPHej7TlBRiWcOiL.png?r=q83&type=default" width="356" alt="Anthony's Dev Card"/>
-</a>
+</a>-->
 
 
