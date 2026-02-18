@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </h1>
 <br />
 <p align="center">
-  Hi, I'm Wishenga, a software Developer/Coder 💻, student 👨‍💻 & gamer 🦸‍♂️ from Kenya.
+  Hi, I'm Wishenga, a software Developer/Coder 💻 & student  from Kenya.
   <br />
   🎓 Currently a student.
   <br />
