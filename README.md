@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=YOURUSERNAME" />
+<img align="right" src="https://komarev.com/ghpvc/?username=Wishi-code />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -51,27 +51,27 @@
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Wishi-code/Wishi-code/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/Wishi-code/Wishi-code/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/Wishi-code/Wishi-code/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
   </picture>
 </div>
 
 <h2 align="center">📊 My GitHub Stats 📊</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Wishi-code&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wishi-code&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
   </a>
 </p>
 
 <h2 align="center">🚀 Current Activities 🚀</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=vision-friendly-dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wishi-code&theme=vision-friendly-dark" alt="GitHub Streak Stats" />
 </p>
 
 <h2 align="center">💬 Connect with Me 💬</h2>
