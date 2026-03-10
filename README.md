@@ -1,5 +1,124 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Natal Wishenga</h1>
 
+<h3 align="center">💻 Software Developer | 🎓 Student | 🧠 Mental Health Advocate</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Software+Developer;Passionate+about+Technology;Building+Solutions+for+Impact" />
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+Hello! I'm **Natal Wishenga** 👋  
+
+🎓 Software Development Student at **Kirinyaga University**  
+
+💻 Passionate about **building software and learning new technologies**  
+
+🧠 Mental Health Advocate who believes **technology can improve lives**  
+
+🌱 Currently learning **.NET Framework and backend development**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/natal-wishenga-44557b365/">
+<img src="https://img.shields.io/badge/LinkedIn-Natal_Wishenga-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🧑‍💻 Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-darkblue?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</p>
+
+---
+
+## 🚀 Projects
+
+🔹 🧠 Mental Health Awareness Website  
+
+🔹 🚗 Car Gallery Website  
+
+🔹 💰 C# Financial Management System  
+
+More projects coming soon 🚀
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue"/>
+
+</p>
+
+---
+
+## 💬 Tech Quote
+
+> "Programs must be written for people to read, and only incidentally for machines to execute."  
+> — Harold Abelson
+
+---
+
+⭐ **Thanks for visiting my GitHub profile!**
 <!--
 **Wishi-code/Wishi-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
