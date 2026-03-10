@@ -88,7 +88,5 @@
   🔹 C# Financial Management System
 </p>
 
-## Dev Card
-<a href="https://app.daily.dev/natalwishenga">
-  <img src="https://api.daily.dev/devcards/v2/Re6fokPHej7TlBRiWcOiL.png?r=q83&type=default" width="356" alt="Natal's Dev Card"/>
-</a>
+
+
