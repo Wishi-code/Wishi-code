@@ -79,10 +79,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-## Dev Card 
-<a href="https://app.daily.dev/Wishie">
-  <img src="https://api.daily.dev/devcards/v2/Re6fokPHej7TlBRiWcOiL.png?r=q83&type=default" width="356" alt="Natal's Dev card"/>
-</a>
+ 
+
 
 
 
