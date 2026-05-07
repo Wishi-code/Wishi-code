@@ -6,7 +6,7 @@
 </h1>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=2000&color=FF5733&width=435&lines=I'm+gichukianthony!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=2000&color=FF5733&width=435&lines=I'm+Natal Wishenga." alt="Typing SVG">
   </a>
 
 <h1 align="center">
@@ -80,7 +80,7 @@
   </a>
 </p>
 ## Dev Card 
-<a href="https://app.daily.dev/anthony73">
+<a href="https://app.daily.dev/Wishie">
   <img src="https://api.daily.dev/devcards/v2/Re6fokPHej7TlBRiWcOiL.png?r=q83&type=default" width="356" alt="Natal's Dev card"/>
 </a>
 
